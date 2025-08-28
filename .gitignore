@@ -1,0 +1,11 @@
+env/
+output_voice_type_classifier/
+voice_type_classifier/
+*.wav
+db.sqlite3
+
+utils/dylan
+utils/mispronunciation_detection/mms_adapter_output
+
+__pycache__
+**/.DS_Store
