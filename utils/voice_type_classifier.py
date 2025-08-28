@@ -24,6 +24,12 @@ def voice_type_classifier():
         executable="/bin/bash"
     )
 
+    print("STDOUT:")
+    print(result.stdout)
+
+    print("STDERR:")
+    print(result.stderr)
+
     segments = []
 
     with open(f"{ROOT_PATH}/output_voice_type_classifier/sliced/all.rttm") as file:
