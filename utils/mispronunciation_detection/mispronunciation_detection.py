@@ -6,6 +6,8 @@ from .Transcribe import Transcribe
 from decouple import config
 
 ROOT_PATH = config("ROOT_PATH")
+MMS_PATH = config("MMS_PATH")
+device = config("device")
 
 class MispronunciationDetection:
     PHONEME_MAP = {
@@ -188,7 +190,7 @@ def load_md_model():
     global detector
 
     if detector is None:
-        loader = LoadModel(f"{ROOT_PATH}/utils/mispronunciation_detection/mms_adapter_output/", device="cpu")
+        loader = LoadModel(MMS_PATH, device=device)
         loader.load_model_and_processor()
         model = loader.get_model()
         processor = loader.get_processor()
