@@ -7,8 +7,12 @@ import numpy as np
 import re
 import subprocess
 
+from decouple import config
+
+ESPEAK_PATH = config("ESPEAK_PATH")
+
 # Set eSpeak NG library path (adjust if needed)
-ESPEAK_DLL_PATH = "/opt/homebrew/opt/espeak-ng/lib/libespeak-ng.dylib"
+ESPEAK_DLL_PATH = ESPEAK_PATH
 if os.path.exists(ESPEAK_DLL_PATH):
     EspeakWrapper.set_library(ESPEAK_DLL_PATH)
     print(f"eSpeak NG library path set to: {ESPEAK_DLL_PATH}")
