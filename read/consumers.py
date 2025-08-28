@@ -80,9 +80,9 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
     async def transcribe_and_send(self, waveform):
 
         print("TRANSCRIBING AUDIO")
-        # transcript = transcribe_waveform_direct(waveform, 16000)
+        transcript = transcribe_waveform_direct(waveform, 16000)
         print("DONE")
 
         await self.send(text_data=json.dumps({
-            "transcript": "transcript"
+            "transcript": transcript
         }))
