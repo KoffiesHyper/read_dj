@@ -2,10 +2,16 @@ import subprocess
 import torch
 import torchaudio
 
+from decouple import config
+
+ROOT_PATH = config("ROOT_PATH")
+VTC_PATH = config("VTC_PATH")
+CONDA_PATH = config("CONDA_PATH")
+
 env_name = "pyannote"
-wav_path = "/Users/koffieshyper/Desktop/read_dj/sliced.wav"
-script_path = "/Users/koffieshyper/Desktop/read_dj/voice_type_classifier/apply.sh"
-command = f"source /opt/anaconda3/etc/profile.d/conda.sh && conda init && conda activate {env_name} && {script_path} {wav_path}"
+wav_path = f"{ROOT_PATH}/sliced.wav"
+script_path = f"{VTC_PATH}/apply.sh"
+command = f"source {CONDA_PATH}/etc/profile.d/conda.sh && conda init && conda activate {env_name} && {script_path} {wav_path}"
 
 target_category = "MAL"
 
@@ -20,7 +26,7 @@ def voice_type_classifier():
 
     segments = []
 
-    with open("/Users/koffieshyper/Desktop/read_dj/output_voice_type_classifier/sliced/all.rttm") as file:
+    with open(f"{ROOT_PATH}/output_voice_type_classifier/sliced/all.rttm") as file:
         for line in file:
             line = line.strip().split(" ")
             category = line[7]

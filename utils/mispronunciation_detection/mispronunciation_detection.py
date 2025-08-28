@@ -3,6 +3,10 @@ import subprocess
 from .LoadModel import LoadModel
 from .Transcribe import Transcribe
 
+from decouple import config
+
+ROOT_PATH = config("ROOT_PATH")
+
 class MispronunciationDetection:
     PHONEME_MAP = {
         # Vowels
@@ -184,7 +188,7 @@ def load_md_model():
     global detector
 
     if detector is None:
-        loader = LoadModel("/Users/koffieshyper/Desktop/read_dj/utils/mispronunciation_detection/mms_adapter_output/", device="cpu")
+        loader = LoadModel(f"{ROOT_PATH}/utils/mispronunciation_detection/mms_adapter_output/", device="cpu")
         loader.load_model_and_processor()
         model = loader.get_model()
         processor = loader.get_processor()
@@ -192,7 +196,7 @@ def load_md_model():
 
 def run_mispronunciation_detection(audio, ground_truth):
     mispronunciations = detector.run(
-        "/Users/koffieshyper/Desktop/read_dj/sliced.wav",
+        f"{ROOT_PATH}/sliced.wav",
         ground_truth
     )
 

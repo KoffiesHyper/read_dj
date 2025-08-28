@@ -9,3 +9,4 @@ utils/mispronunciation_detection/mms_adapter_output
 
 __pycache__
 **/.DS_Store
+.env
