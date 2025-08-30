@@ -17,4 +17,12 @@ class ReadConfig(AppConfig):
 
         if device == "cuda":
             home = os.path.expanduser("~")
-            os.environ["PATH"] = f"{home}/bin:{home}/sox_build/bin:" + os.environ.get("PATH", "")
+
+            extra_paths = [
+                f"{home}/bin",
+                f"{home}/sox_build/bin",
+                "/usr/bin",
+                "/bin",
+            ]
+
+            os.environ["PATH"] = ":".join(extra_paths) + ":" + os.environ.get("PATH", "")
