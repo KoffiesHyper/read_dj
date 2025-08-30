@@ -4,7 +4,7 @@ voice_type_classifier/
 *.wav
 db.sqlite3
 
-utils/dylan
+utils/story_generation/llama.cpp
 utils/mispronunciation_detection/mms_adapter_output
 
 __pycache__

@@ -9,48 +9,59 @@ VTC_PATH = config("VTC_PATH")
 CONDA_PATH = config("CONDA_PATH")
 
 env_name = "pyannote"
-wav_path = f"{ROOT_PATH}/sliced.wav"
+wav_path = f"{ROOT_PATH}"
 script_path = f"{VTC_PATH}/apply.sh"
 command = f"source {CONDA_PATH}/etc/profile.d/conda.sh && conda init && conda activate {env_name} && {script_path} {wav_path}"
 
 target_category = "MAL"
 
+def get_ith_command(i):
+    return f"source {CONDA_PATH}/etc/profile.d/conda.sh && conda init && conda activate {env_name} && {script_path} {wav_path}/paragraph_{i}.wav"
+
 def voice_type_classifier():
-    
-    result = subprocess.run(
-        ["bash", "-c", command],
-        capture_output=True,
-        text=True,
-        executable="/bin/bash"
-    )
 
-    print("STDOUT:")
-    print(result.stdout)
+    paragraphs = []
 
-    print("STDERR:")
-    print(result.stderr)
+    for i in range(7):
+        print(f"VTC: Paragraph #{i+1}")
 
-    segments = []
+        command = get_ith_command(i)
 
-    with open(f"{ROOT_PATH}/output_voice_type_classifier/sliced/all.rttm") as file:
-        for line in file:
-            line = line.strip().split(" ")
-            category = line[7]
+        result = subprocess.run(
+            ["bash", "-c", command],
+            capture_output=True,
+            text=True,
+            executable="/bin/bash"
+        )
 
-            if category == target_category:
-                segments.append([float(line[3]), float(line[4])])
+        print("STDOUT:")
+        print(result.stdout)
 
-    waveform, sample_rate = torchaudio.load("sliced.wav")
-    sliced_audio = []
+        print("STDERR:")
+        print(result.stderr)
 
-    num_samples = waveform.shape[1]
-    duration = num_samples / sample_rate
+        segments = []
 
-    for i, timestamp in enumerate(segments):
-        start_frame = int(timestamp[0] * sample_rate)
-        end_frame = int(timestamp[1] * sample_rate)
-        sliced_audio.append(waveform[:, start_frame:end_frame])
-    
-    sliced_audio = torch.cat(sliced_audio, dim=1)
-    
-    return sliced_audio
+        with open(f"{ROOT_PATH}/output_voice_type_classifier/paragraph_{i}/all.rttm") as file:
+            for line in file:
+                line = line.strip().split(" ")
+                category = line[7]
+
+                if category in [target_category, "SPEECH"]:
+                    segments.append([float(line[3]), float(line[4])])
+
+        waveform, sample_rate = torchaudio.load(f"paragraph_{i}.wav")
+        sliced_audio = []
+
+        num_samples = waveform.shape[1]
+        duration = num_samples / sample_rate
+
+        for i, timestamp in enumerate(segments):
+            start_frame = int(timestamp[0] * sample_rate)
+            end_frame = int(timestamp[1] * sample_rate)
+            sliced_audio.append(waveform[:, start_frame:end_frame])
+        
+        sliced_audio = torch.cat(sliced_audio, dim=1)
+        paragraphs.append(sliced_audio)
+        
+    return paragraphs

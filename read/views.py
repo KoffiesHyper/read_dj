@@ -2,6 +2,7 @@ from rest_framework.decorators import api_view
 from rest_framework.status import HTTP_200_OK
 from rest_framework.response import Response
 
+import json
 import torch
 import torchaudio
 import numpy as np
@@ -11,6 +12,15 @@ from utils.kidwhisper import transcribe_waveform_direct
 from utils.silero_vad import silero_vad
 from utils.voice_type_classifier import voice_type_classifier
 from utils.mispronunciation_detection.mispronunciation_detection import run_mispronunciation_detection
+from utils.load_into_paragraphs import load_into_paragraphs
+from utils.story_generation.InitialParasLinked import run_inital_paras
+from utils.story_generation.MatchLinked import run_match
+from utils.story_generation.StoryGenLinked import run_story_gen
+from utils.story_generation.NoOutlineGenLinked import run_no_outline_gen
+
+from decouple import config
+
+ROOT_PATH = config("ROOT_PATH")
 
 @api_view(["GET"])
 def TestView(request):
@@ -21,56 +31,75 @@ def ReadAttemptView(request):
     recording = request.FILES["recording"]
     audio_bytes = recording.read()   
 
-    speech_timestamps, waveform, sample_rate = silero_vad(audio_bytes)
-    torchaudio.save(f"audio.wav", waveform, sample_rate)
-    
-    sliced_audio = []
+    story = json.loads(request.data.get("story"))
+    time_stamps = json.loads(request.data.get("time_stamps"))
 
-    num_samples = waveform.shape[1]
+    paragraphs, sample_rate = load_into_paragraphs(audio_bytes, time_stamps)
+
+    num_samples = 0
+    for paragraph in paragraphs:
+        num_samples += paragraph.shape[1]
     duration = num_samples / sample_rate
 
-    for i, timestamp in enumerate(speech_timestamps):
-        start_frame = int(timestamp["start"])
-        end_frame = int(timestamp["end"])
-        sliced_audio.append(waveform[:, start_frame:end_frame])
-    
-    sliced_audio = torch.cat(sliced_audio, dim=1)
-    torchaudio.save(f"sliced.wav", sliced_audio, sample_rate)
+    silero_vad(paragraphs, sample_rate)
+    paragraphs = voice_type_classifier()
 
-    waveform = voice_type_classifier()
-
-    num_samples = waveform.shape[1]
+    num_samples = 0
+    for paragraph in paragraphs:
+        num_samples += paragraph.shape[1]
     spoken_duration = num_samples / sample_rate
 
-    transcript = transcribe_waveform_direct(waveform, sample_rate).strip().replace(",", ", ")
+    transcripts = transcribe_waveform_direct(paragraphs, sample_rate)
+    results, accuracy = compare_strings(story, transcripts)
 
-    story = request.data.get("story")
-
-    result, accuracy = compare_strings(story.lower(), transcript.lower())
-
-    if result[-1]["text"] == "":
-        result = result[:-1]
-
-    missing_words = check_missing_words(story, transcript)
+    missing_words = check_missing_words(story, transcripts)
 
     mispronunciations = []
-    if missing_words == 0:
-        audio = waveform.numpy()
-        if audio.shape[0] > 1:
-            audio = np.mean(audio, axis=0)
-        
-        audio = audio.astype(np.float32)
-        mispronunciations = run_mispronunciation_detection(waveform, story)
+
+    total_mistakes = {}
+
+    for i, missing in enumerate(missing_words):
+        print(f"MP: #{i+1}")
+        if missing == 0:
+            audio = paragraphs[i].numpy()
+            if audio.shape[0] > 1:
+                audio = np.mean(audio, axis=0)
+            
+            audio = audio.astype(np.float32)
+            mp, mistakes = run_mispronunciation_detection(paragraphs[i], story[i])
+
+            for key in mistakes:
+                if key in total_mistakes:
+                    total_mistakes[key] += mistakes[key]
+                else:
+                    total_mistakes[key] = mistakes[key]
+
+            mispronunciations.append(mp)
+        else:
+            mispronunciations.append([])
 
     response = {
-        "result": result,
+        "result": results,
         "stats": {
             "accuracy": accuracy,
             "duration": duration,
             "spoken_duration": spoken_duration
         },
         "mispronunciations": mispronunciations,
+        "mistakes": total_mistakes,
         "missing_words": missing_words
     }
     
     return Response(response, status=HTTP_200_OK)
+
+@api_view(["POST"])
+def StoryGenView(request):
+    mistakes = request.data.get("mistakes")
+    print(mistakes)
+
+    run_inital_paras(mistakes)
+    run_match()
+    run_story_gen()
+    paragraphs = run_no_outline_gen()
+
+    return Response(paragraphs)

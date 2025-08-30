@@ -1,0 +1,194 @@
+--- Story Outline #200 ---
+Premise (from Theme Sentence): Those who seek to harm others often come to harm themselves through their own deceit.
+Theme: Deceit
+Outline: add_obstacle:guilt,level_up_obstacle,the_importance_of_being_true_to_oneself,the_importance_of_self_care,add_twist,make_reader_angry,introduce_rival_character
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #59 ---
+Premise (from Theme Sentence): When we refuse to listen to reason and advice from those who are wiser than us, we are on the road to misfortune.
+Theme: Hubris
+Outline: the_value_of_self_expression_and_creativity,introduce_rival_character,add_obstacle_towards_major_goal,add_twist,add_obstacle:guilt,level_up_obstacle,the_value_of_self_expression_and_creativity
+
+--- Paragraph Output for Event: 'the_value_of_self_expression_and_creativity' ---
+[No output generated]
+
+--- Story Outline #90 ---
+Premise (from Theme Sentence): One swallow does not make a summer.
+Theme: Greed
+Outline: the_importance_of_being_willing_to_change,introduce_rival_character,add_obstacle:guilt,the_value_of_self_expression_and_creativity,level_up_obstacle,add_twist,add_obstacle_towards_major_goal
+
+--- Paragraph Output for Event: 'the_importance_of_being_willing_to_change' ---
+[No output generated]
+
+--- Story Outline #27 ---
+Premise (from Theme Sentence): The dangers of being too picky and missing out on opportunities.
+Theme: Humility
+Outline: the_value_of_self_expression_and_creativity,introduce_rival_character,add_obstacle:guilt,level_up_obstacle,add_twist,moving_to_a_new_home_or_location,the_value_of_empathy_and_understanding
+
+--- Paragraph Output for Event: 'the_value_of_self_expression_and_creativity' ---
+[No output generated]
+
+--- Story Outline #137 ---
+Premise (from Theme Sentence): Greediness leads to misfortune.
+Theme: Greed
+Outline: add_obstacle:guilt,introduce_rival_character,level_up_obstacle,add_twist,introduce_character:quirky,introduce_rival_character,the_importance_of_kindness_and_compassion
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #131 ---
+Premise (from Theme Sentence): When we refuse to listen to reason and advice from those who are wiser than us, we are on the road to misfortune.
+Theme: Hubris
+Outline: add_obstacle:guilt,level_up_obstacle,introduce_rival_character,the_value_of_self_expression_and_creativity,the_importance_of_following_rules_and_respecting_authority,the_value_of_teamwork_and_cooperation,add_twist
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #232 ---
+Premise (from Theme Sentence): The dangers of overestimating oneself and the importance of humility.
+Theme: Humility
+Outline: add_obstacle:guilt,introduce_rival_character,the_value_of_self_expression_and_creativity,self_acceptance,level_up_obstacle,the_importance_of_being_willing_to_take_risks,add_twist
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #188 ---
+Premise (from Theme Sentence): In unity is strength.
+Theme: Unity
+Outline: the_value_of_self_expression_and_creativity,add_obstacle:guilt,the_importance_of_sharing_and_empathy,level_up_obstacle,introduce_character:quirky,add_twist,introduce_rival_character
+
+--- Paragraph Output for Event: 'the_value_of_self_expression_and_creativity' ---
+[No output generated]
+
+--- Story Outline #185 ---
+Premise (from Theme Sentence): Greediness leads to misfortune.
+Theme: Greed
+Outline: the_value_of_gratitude,the_value_of_self_expression_and_creativity,introduce_rival_character,add_twist,add_obstacle:guilt,level_up_obstacle,the_value_of_self_expression_and_creativity
+
+--- Story Outline #155 ---
+Premise (from Theme Sentence): When we refuse to listen to reason and advice from those who are wiser than us, we are on the road to misfortune.
+Theme: Hubris
+Outline: add_obstacle:guilt,the_value_of_self_expression_and_creativity,the_value_of_teamwork_and_cooperation,add_twist,the_importance_of_kindness_and_compassion,introduce_rival_character,level_up_obstacle
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+In the quiet hour, when the moon shone on the quiet shore, Max thought of the poor bird that he had hurt with his noisy, rough hook. He had been so proud of catching the big fish that he had ignored the bird's warning calls, and now it lay on the ground, unable to fly anymore. Max felt a heavy, hollow feeling in his heart, and he wondered if he could ever find the courage to forgive himself for his thoughtless, careless deed.
+
+--- Story Outline #106 ---
+Premise (from Theme Sentence): Do not believe everything you hear.
+Theme: Skepticism
+Outline: add_obstacle_towards_major_goal,the_value_of_self_expression_and_creativity,introduce_rival_character,add_obstacle:guilt,level_up_obstacle,add_twist,the_importance_of_being_willing_to_adapt
+
+--- Paragraph Output for Event: 'add_obstacle_towards_major_goal' ---
+[No output generated]
+
+--- Story Outline #232 ---
+Premise (from Theme Sentence): The dangers of overestimating oneself and the importance of humility.
+Theme: Humility
+Outline: add_obstacle:guilt,introduce_rival_character,the_value_of_self_expression_and_creativity,self_acceptance,level_up_obstacle,the_importance_of_being_willing_to_take_risks,add_twist
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #158 ---
+Premise (from Theme Sentence): We cannot expect anyone to share our misfortunes unless we are willing to share our good fortune also.
+Theme: Selfishness
+Outline: add_obstacle:supernatural,level_up_obstacle,introduce_rival_character,add_twist,the_value_of_self_expression_and_creativity,the_value_of_teamwork_and_cooperation,learning_from_mistakes
+
+--- Paragraph Output for Event: 'add_obstacle:supernatural' ---
+[No output generated]
+
+--- Story Outline #134 ---
+Premise (from Theme Sentence): We cannot expect anyone to share our misfortunes unless we are willing to share our good fortune also.
+Theme: Selfishness
+Outline: add_obstacle:guilt,the_importance_of_careful_planning,introduce_rival_character,level_up_obstacle,add_twist,the_value_of_self_expression_and_creativity,overprotectiveness
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #51 ---
+Premise (from Theme Sentence): The dangers of being too picky and missing out on opportunities.
+Theme: Humility
+Outline: add_obstacle:guilt,the_value_of_self_expression_and_creativity,including_the_value_of_gratitude_in_a_story,introduce_rival_character,the_value_of_self_expression_and_creativity,level_up_obstacle,add_twist
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No valid paragraph found]
+
+--- Story Outline #165 ---
+Premise (from Theme Sentence): A lesson in the dangers of overestimating oneself and the importance of humility.
+Theme: Humility
+Outline: add_obstacle:guilt,level_up_obstacle,the_value_of_self_expression_and_creativity,introduce_rival_character,add_twist,keeping_secrets,the_value_of_self_expression_and_creativity
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No output generated]
+
+--- Story Outline #234 ---
+Premise (from Theme Sentence): One swallow does not make a summer.
+Theme: Greed
+Outline: add_obstacle:guilt,level_up_obstacle,introduce_rival_character,add_twist,the_importance_of_being_willing_to_take_risks,learning_from_a_mentor_or_teacher,power_struggle
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+Luna's long, lumpy llama loo-ped away from the lush, lively market, leaving behind a trail of doubt. She had lied to her llama friends about the juicy, delicious lunch she had found, and now she was filled with guilt, wondering if she should have just told the truth, but didn't want to lose her friends' trust. As she walked, the dull, dull sound of her own footsteps echoed in her head, reminding her of the difficult decision she had made, and she didn't know how to undo the hurt she had caused.
+
+--- Story Outline #123 ---
+Premise (from Theme Sentence): The dangers of being too picky and missing out on opportunities.
+Theme: Humility
+Outline: add_obstacle:guilt,level_up_obstacle,introduce_rival_character,the_value_of_self_expression_and_creativity,the_importance_of_being_willing_to_be_transparent,add_twist,the_value_of_self_expression_and_creativity
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+As Mina jogged through the misty morning, she couldn't shake off the nagging sense of inquietude that had been weighing on her mind since the incident at the nursery. It had been a year since she had accidentally left the baby's favourite toy behind, and now the little one was beside herself with missing it. Mina's mind meandered back to that day, and she couldn't help but imagine the tiny fingers that had once held that toy, and the innocent eyes that had looked up at her with trust, now filled with a mix of sadness and disappointment.
+
+--- Story Outline #228 ---
+Premise (from Theme Sentence): Liars are not believed even when they speak the truth.
+Theme: Dishonesty
+Outline: add_obstacle:guilt,introduce_rival_character,level_up_obstacle,introduce_character:quirky,introduce_rival_character,introduce_character:mysterious,add_twist
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+Benny the baker had been feeling bee-utifully anxious about the beans he had baked for the bakery's big celebration yesterday. He had been so excited to show off his new batch of biscuits, but when he saw the baker's best customer, Mrs. Jenkins, eating a identical-looking cookie, Benny felt a knot in his belly. Benny had accidentally baked the cookies with beans instead of sugar, and now he was beating himself up over the mistake, wondering why he hadn't been more careful and been more precise.
+
+--- Story Outline #249 ---
+Premise (from Theme Sentence): Even the weakest may find means to avenge a wrong.
+Theme: Justice
+Outline: add_obstacle:guilt,the_value_of_self_expression_and_creativity,level_up_obstacle,add_twist,introduce_rival_character,the_value_of_self_expression_and_creativity,the_value_of_teamwork_and_cooperation
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+As Ava walked home from school, she felt a heavy air about her. The memory of taking the last cookie from the school bake sale without asking haunted her, and she couldn't help but think of the sad face of her friend, Lily, who had made that delicious treat. Ava wondered if she should return the cookie, but the guilt made her feel like it was too late, and she didn't know how to make things right again.
+
+--- Story Outline #66 ---
+Premise (from Theme Sentence): One swallow does not make a summer.
+Theme: Greed
+Outline: add_obstacle:guilt,the_value_of_self_expression_and_creativity,introduce_rival_character,level_up_obstacle,introduce_character:quirky,introduce_rival_character,add_twist
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+As Ayden awoke to the aahing of the ayre, she felt a deep ah-ghast at the consequences of her past mistakes. It had been ay years since she had taken the shiny, sparkly rock from the park, and now her best friend, Emma, was ayng sad and upset because Ayden had kept the rock for herself. Ayden's heart felt heavy with aay of regret as she wondered if she could ever make amends and find a way to aynd a way to make things right with Emma.
+
+--- Story Outline #203 ---
+Premise (from Theme Sentence): When we refuse to listen to reason and advice from those who are wiser than us, we are on the road to misfortune.
+Theme: Hubris
+Outline: the_value_of_teamwork_and_cooperation,the_value_of_self_expression_and_creativity,trying_again_after_a_setback_or_failure,add_obstacle:guilt,introduce_rival_character,level_up_obstacle,add_twist
+
+--- Paragraph Output for Event: 'the_value_of_teamwork_and_cooperation' ---
+Ava was a very proud and confident builder who loved to work alone. One day, she was asked to build a new bridge for the village, but she had to work with her friends to get it done. Ah, the problem was, the bridge needed a special kind of stone that could only be found on the other side of the river, and Ava would have to work with her friends to find it and bring it back, all while they had to work together to lay the bridge before the air was filled with rain.
+
+--- Story Outline #93 ---
+Premise (from Theme Sentence): A lesson in the dangers of overestimating oneself and the importance of humility.
+Theme: Humility
+Outline: introduce_character:quirky,add_obstacle:guilt,introduce_rival_character,level_up_obstacle,add_twist,being_true_to_oneself,introduce_character:mysterious
+
+--- Paragraph Output for Event: 'introduce_character:quirky' ---
+As Ava wandered through the dusty air, she marched to the beat of her own drum, her bright pink sneakers making a loud "slap" on the pavement. Her wild, curly hair was tied up in a messy bun, and she had a smudge of paint on her cheek, a result of a particularly vivid drawing session earlier that day, "I'm a rainbow, I'm a rainbow, I'm a rainbow, can you see?" she exclaimed, as she skipped past her friends, who couldn't help but giggle at her antics. The teacher, Mrs. Patel, watched Ava with a warm smile, knowing that the quirky young girl's unique energy was just what the class needed to shake things up.
+
+--- Story Outline #7 ---
+Premise (from Theme Sentence): A fine coat is not always an indication of an attractive mind.
+Theme: Intelligence
+Outline: the_value_of_self_expression_and_creativity,add_obstacle:guilt,level_up_obstacle,introduce_rival_character,perseverance,add_twist,the_value_of_self_expression_and_creativity
+
+--- Paragraph Output for Event: 'the_value_of_self_expression_and_creativity' ---
+Maya loved to draw and paint, and one day she created a beautiful painting of a sunny day at the beach. She used bright colors and swirly patterns to make it look like the waves were moving in the air, and the sun was shining down, ah, making everything feel happy and carefree. As she stepped back to admire her artwork, Maya felt a sense of ah-ha!
+
+--- Story Outline #96 ---
+Premise (from Theme Sentence): Helping others can lead to trouble if it is used as an excuse for wrong behavior.
+Theme: Responsibility
+Outline: add_obstacle:guilt,the_value_of_self_expression_and_creativity,the_importance_of_careful_planning,add_twist,introduce_rival_character,the_value_of_gratitude,level_up_obstacle
+

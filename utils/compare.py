@@ -1,40 +1,52 @@
 import difflib
 
-def compare_strings(reference: str, spoken: str):
-    matcher = difflib.SequenceMatcher(None, reference, spoken)
-    result = []
-    correct_chars = 0
-    total_chars = len(reference)
+def compare_strings(reference, spoken):
+    results = []
 
-    for tag, i1, i2, j1, j2 in matcher.get_opcodes():
-        ref_part = reference[i1:i2]
-        spoken_part = spoken[j1:j2]
+    correct_chars_total = 0
+    total_chars_total = 0
 
-        if tag == 'equal':
-            result.append({"text": spoken_part, "type": "correct"})
-            correct_chars += (i2 - i1)
-        elif tag in ('replace', 'insert', 'delete'):
-            result.append({"text": spoken_part, "type": "incorrect"})
+    for i, paragraph in enumerate(reference):
 
-    accuracy = correct_chars / total_chars if total_chars > 0 else 0
+        matcher = difflib.SequenceMatcher(None, paragraph, spoken[i])
+        result = []
+        correct_chars = 0
+        total_chars = len(paragraph)
 
-    return result, accuracy
+        for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+            ref_part = reference[i1:i2]
+            spoken_part = spoken[i][j1:j2]
 
-def check_missing_words(reference: str, spoken):
-    reference = reference.lower().replace(".", "").replace(",", "").split(" ")
-    spoken = spoken.lower().replace(".", "").replace(",", "").split(" ")
+            if tag == 'equal':
+                result.append({"text": spoken_part, "type": "correct"})
+                correct_chars += (i2 - i1)
+            elif tag in ('replace', 'insert', 'delete'):
+                result.append({"text": spoken_part, "type": "incorrect"})
 
-    if len(reference) > len(spoken):
-        return -1
-    elif len(spoken) > len(reference):
-        return 1
-    else: return 0
+        correct_chars_total += correct_chars
+        total_chars_total += total_chars
 
-    # matcher = difflib.SequenceMatcher(None, reference, spoken)
-    # missing = []
+        if result[-1]["text"] == "":
+            result = result[:-1]
 
-    # for tag, i1, i2, j1, j2 in matcher.get_opcodes():
-    #     if tag == 'delete':
-    #         missing.extend((reference[i1:i2], i1))
+        results.append(result)
     
-    return missing
+    accuracy = correct_chars_total / total_chars_total if total_chars_total > 0 else 0
+    return results, accuracy
+
+def check_missing_words(reference, spoken):
+    missing_words = []
+
+    for i, paragraph in enumerate(reference):
+
+        paragraph = paragraph.lower().replace(".", "").replace(",", "").split(" ")
+        spoken_paragraph = spoken[i].lower().replace(".", "").replace(",", "").split(" ")
+
+        if len(paragraph) > len(spoken_paragraph):
+            missing_words.append(-1)
+        elif len(spoken_paragraph) > len(paragraph):
+            missing_words.append(1)
+        else:
+            missing_words.append(0)
+
+    return missing_words

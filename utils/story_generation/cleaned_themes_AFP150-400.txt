@@ -1,0 +1,120 @@
+Story: Story_6
+Theme Sentence: The importance of humility and flexibility in the face of adversity.
+Theme Word: Humility
+---
+
+Story: Story_7
+Theme Sentence: The dangers of pride and the importance of flexibility and humility.
+Theme Word: Humility
+---
+
+Story: Story_8
+Theme Sentence: The dangers of being too picky and missing out on opportunities.
+Theme Word: Humility
+---
+
+Story: Story_9
+Theme Sentence: The importance of being even-tempered and not playing tricks on others unless you can stand the same treatment.
+Theme Word: Humility
+---
+
+Story: Story_10
+Theme Sentence: The dangers of being too trusting and the importance of being cautious and perceptive.
+Theme Word: Caution
+---
+
+Story: Story_11
+Theme Sentence: A lesson in the dangers of overestimating oneself and the importance of humility.
+Theme Word: Humility
+---
+
+Story: Story_12
+Theme Sentence: A fine coat is not always an indication of an attractive mind.
+Theme Word: Intelligence
+---
+
+Story: Story_13
+Theme Sentence: Those who seek to harm others often come to harm themselves through their own deceit.
+Theme Word: Deceit
+---
+
+Story: Story_14
+Theme Sentence: Even the weakest may find means to avenge a wrong.
+Theme Word: Justice
+---
+
+Story: Story_15
+Theme Sentence: Do not believe everything you hear.
+Theme Word: Skepticism
+---
+
+Story: Story_26
+Theme Sentence: When we refuse to listen to reason and advice from those who are wiser than us, we are on the road to misfortune.
+Theme Word: Hubris
+---
+
+Story: Story_27
+Theme Sentence: Liars are not believed even when they speak the truth.
+Theme Word: Dishonesty
+---
+
+Story: Story_28
+Theme Sentence: We cannot expect anyone to share our misfortunes unless we are willing to share our good fortune also.
+Theme Word: Generosity
+---
+
+Story: Story_29
+Theme Sentence: We cannot expect anyone to share our misfortunes unless we are willing to share our good fortune also.
+Theme Word: Selfishness
+---
+
+Story: Story_30
+Theme Sentence: We should be content with what we have and work to better our condition before seeking to change.
+Theme Word: Contentment
+---
+
+Story: Story_51
+Theme Sentence: The dangers of overestimating oneself and the importance of humility.
+Theme Word: Humility
+---
+
+Story: Story_52
+Theme Sentence: Greediness leads to misfortune.
+Theme Word: Greed
+---
+
+Story: Story_53
+Theme Sentence: One swallow does not make a summer.
+Theme Word: Greed
+---
+
+Story: Story_54
+Theme Sentence: Take care of the little things and the big things will take care of themselves.
+Theme Word: Humility
+---
+
+Story: Story_55
+Theme Sentence: In unity is strength.
+Theme Word: Unity
+---
+
+Story: Story_76
+Theme Sentence: A lesson in the dangers of overestimating oneself and the importance of humility.
+Theme Word: Humility
+---
+
+Story: Story_77
+Theme Sentence: The power of humility and kindness can lead to a more harmonious outcome than force and aggression.
+Theme Word: Humility
+---
+
+Story: Story_78
+Theme Sentence: Gentle persuasion and kindness can be more effective than force and bluster in achieving a desired outcome.
+Theme Word: Gentleness
+---
+
+Story: Story_79
+Theme Sentence: Helping others can lead to trouble if it is used as an excuse for wrong behavior.
+Theme Word: Responsibility
+---
+

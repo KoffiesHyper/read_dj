@@ -1,0 +1,3638 @@
+--- Start of Extracted Themes Log ---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 14:17:37 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 14:33:32 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 14:36:54 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 14:38:28 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 14:38:39 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 14:40:09 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 15:03:27 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 15:03:51 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 15:04:00 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 15:05:49 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-22 15:09:51 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+
+--- Themes from llama.cpp CLI run on 2025-08-28 16:48:50 SAST ---
+
+Story: Story_1
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_2
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_3
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_4
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_5
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_6
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_7
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_8
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_9
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_10
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_11
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_12
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_13
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_14
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_15
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_16
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_17
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_18
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_19
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_20
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_21
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_22
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_23
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_24
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_25
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_26
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_27
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_28
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_29
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_30
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_31
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_32
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_33
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_34
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_35
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_36
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_37
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_38
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_39
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_40
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_41
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_42
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_43
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_44
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_45
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_46
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_47
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_48
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_49
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_50
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_51
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_52
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_53
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_54
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_55
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_56
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_57
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_58
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_59
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+
+Story: Story_60
+Theme Sentence: Error during CLI inference (Python exception).
+Theme Word: Error during CLI inference (Python exception).
+---
+

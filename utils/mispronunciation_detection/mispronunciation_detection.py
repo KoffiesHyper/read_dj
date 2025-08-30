@@ -146,7 +146,7 @@ class MispronunciationDetection:
                     })
             
 
-        return mispronunciations
+        return mispronunciations, mispronunciation_alph_dict
             
         #     if word_mispronounced:
         #         alphabetic_predicted_word = "".join([self.phonemes_to_letters(ph) for ph in predicted_word_phonemes])
@@ -168,9 +168,9 @@ class MispronunciationDetection:
         # print("Ground Truth (Phonemes):", gt_phonemes)
         # print("Predicted (Phonemes):", pred_phonemes, "\n")
 
-        mispronunciations = self.find_mispronunciations(gt_phonemes, pred_phonemes, ground_truth_text)
+        mispronunciations, mispronunciation_alph_dict = self.find_mispronunciations(gt_phonemes, pred_phonemes, ground_truth_text)
 
-        return mispronunciations
+        return mispronunciations, mispronunciation_alph_dict
 
         # print("User Output:", user_output)
         # print("Mispronunciations:")
@@ -197,9 +197,9 @@ def load_md_model():
         detector = MispronunciationDetection(model, processor)
 
 def run_mispronunciation_detection(audio, ground_truth):
-    mispronunciations = detector.run(
+    mispronunciations, mispronunciation_alph_dict = detector.run(
         f"{ROOT_PATH}/sliced.wav",
         ground_truth
     )
 
-    return mispronunciations
+    return mispronunciations, mispronunciation_alph_dict

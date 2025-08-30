@@ -3,7 +3,8 @@ import json
 import asyncio
 from channels.generic.websocket import AsyncWebsocketConsumer
 from utils.kidwhisper import transcribe_waveform_direct
-from utils.silero_vad import silero_vad
+from utils.silero_vad import silero_vad_steam
+from utils.conversions import convert_webm_to_wav
 
 CHUNK_THRESHOLD = 5
 
@@ -31,6 +32,7 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
         self.chunk_buffer = []
         self.last_speaking_time = 0
         self.running_chunks = 0
+        self.paragraph = 0
         
         self.task_runner = LatestTaskRunner()
 
@@ -38,7 +40,15 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
         pass
 
     async def receive(self, text_data=None, bytes_data=None):
-        if bytes_data:
+        if text_data == "clear":
+            print("cleared")
+            self.chunk_buffer = []
+            self.last_speaking_time = 0
+            self.running_chunks = 0
+            self.task_runner = LatestTaskRunner()
+            self.paragraph = self.paragraph + 1
+
+        elif bytes_data:
             print("received")
             self.chunk_buffer.append(bytes_data)
 
@@ -54,7 +64,7 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
 
     def run_vad_on_chunk(self, audio_bytes: bytes, sample_rate=16000):
         try:
-            timestamps, waveform, _ = silero_vad(audio_bytes)
+            timestamps, waveform = silero_vad_steam(audio_bytes)
             
             if len(timestamps) > 0 and timestamps[-1]["end"] > self.last_speaking_time:
                 print("speaking")
@@ -84,5 +94,5 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
         print("DONE")
 
         await self.send(text_data=json.dumps({
-            "transcript": transcript
+            "transcript": transcript, "paragraph": self.paragraph
         }))
