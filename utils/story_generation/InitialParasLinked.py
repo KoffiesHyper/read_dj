@@ -9,10 +9,11 @@ from .Mistakes import get_mistakes
 from decouple import config
 
 SG_PATH = config("SG_PATH")
+LLAMA_PATH = config("LLAMA_PATH")
 
 # --- llama.cpp CLI Configuration ---
 LLAMA_CLI_PATH = f"{SG_PATH}/llama.cpp/build/bin/llama-cli"
-MODEL_PATH = f"{SG_PATH}/llama.cpp/hf_models/LLaMA-3.2-3B-Instruct-Q4_K_M.gguf"
+MODEL_PATH = LLAMA_PATH
 
 MAX_CONTEXT_TOKENS = 8192
 MAX_GENERATION_TOKENS_PER_BATCH = 500

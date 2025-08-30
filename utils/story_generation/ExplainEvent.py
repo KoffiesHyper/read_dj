@@ -9,10 +9,11 @@ import traceback
 from decouple import config
 
 SG_PATH = config("SG_PATH")
+LLAMA_PATH = config("LLAMA_PATH")
 
 # For specifying where your model is located as well as the location of llama-cli which handles running the model for you.
 LLAMA_CLI_PATH = f"{SG_PATH}/llama.cpp/build/bin/llama-cli"
-MODEL_PATH = f"{SG_PATH}/llama.cpp/hf_models/LLaMA-3.2-3B-Instruct-Q4_K_M.gguf"
+MODEL_PATH = LLAMA_PATH
 
 BATCH_SIZE = 4 # Number of events to attempt explaining at a time.
 MAX_CONTEXT_TOKENS = 8192 # Specifies the total number of tokens that the model can process at once.

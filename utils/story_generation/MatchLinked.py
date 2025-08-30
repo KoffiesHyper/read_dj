@@ -6,9 +6,10 @@ import random
 from decouple import config
 
 SG_PATH = config("SG_PATH")
+LLAMA_PATH = config("LLAMA_PATH")
 
 LLAMA_CLI_PATH = f"{SG_PATH}/llama.cpp/build/bin/llama-cli"
-MODEL_PATH = f"{SG_PATH}/llama.cpp/hf_models/LLaMA-3.2-3B-Instruct-Q4_K_M.gguf"
+MODEL_PATH = LLAMA_PATH
 OUTPUT_FILE = f"{SG_PATH}/selected_story.txt"
 
 def parse_paragraph_outputs(file_path):
