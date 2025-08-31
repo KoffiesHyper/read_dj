@@ -113,7 +113,11 @@ class MispronunciationDetection:
                     mispronunciation_espeak_dict[gt_ph] = mispronunciation_espeak_dict.get(gt_ph, 0) + 1
                     alph_letter = self.phonemes_to_letters(gt_ph)
                     user_misp_output_str = f'You pronounced the "{alph_letter}" sound in "{original_word}" incorrectly (expected "{self.phonemes_to_letters(gt_ph)}", got "{self.phonemes_to_letters(pred_ph)}").\n'
-                    mispronunciation_alph_dict[alph_letter] = mispronunciation_alph_dict.get(alph_letter, 0) + 1
+                    
+                    if alph_letter in mispronunciation_alph_dict:
+                        mispronunciation_alph_dict[alph_letter].append(i)
+                    else : 
+                        mispronunciation_alph_dict[alph_letter] = [i]
 
                     mispronunciations.append({
                         "type": "substitution",
@@ -125,7 +129,11 @@ class MispronunciationDetection:
                     mispronunciation_espeak_dict[gt_ph] = mispronunciation_espeak_dict.get(gt_ph, 0) + 1
                     alph_letter = self.phonemes_to_letters(gt_ph)
                     user_misp_output_str = f'You missed the "{alph_letter}" sound in "{original_word}".\n'
-                    mispronunciation_alph_dict[alph_letter] = mispronunciation_alph_dict.get(alph_letter, 0) + 1
+
+                    if alph_letter in mispronunciation_alph_dict:
+                        mispronunciation_alph_dict[alph_letter].append(i)
+                    else : 
+                        mispronunciation_alph_dict[alph_letter] = [i]
 
                     mispronunciations.append({
                         "type": "substitution",
@@ -137,7 +145,11 @@ class MispronunciationDetection:
                     word_mispronounced = True
                     alph_letter = self.phonemes_to_letters(pred_ph)
                     user_misp_output_str = f'You added the "{alph_letter}" sound in "{original_word}".\n'
-                    mispronunciation_alph_dict[alph_letter] = mispronunciation_alph_dict.get(alph_letter, 0) + 1
+
+                    if alph_letter in mispronunciation_alph_dict:
+                        mispronunciation_alph_dict[alph_letter].append(i)
+                    else : 
+                        mispronunciation_alph_dict[alph_letter] = [i]
 
                     mispronunciations.append({
                         "type": "substitution",

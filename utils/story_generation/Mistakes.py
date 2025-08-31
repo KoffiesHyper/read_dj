@@ -1,12 +1,25 @@
 import random
+import json
 
 from decouple import config
 
 SG_PATH = config("SG_PATH")
 
 def get_mistakes(mistakes):
+    
+    errors = [[word, mistakes[word]] for word in mistakes.keys()]
+
+    with open(f"{SG_PATH}/phoneme_vocab_display.json", "r") as f:
+        vocab = json.loads(f.read()).keys()
+        vocab = [word for word in vocab]
+
+    for i in range(5 - len(errors)):
+        random_i = random.randint(0, len(vocab))
+
+        while vocab[random_i] in mistakes:
+            random_i = random.randint(0, len(vocab))
         
-    errors = [[word, str(random.randint(1, 10))] for word in mistakes.keys()]    
+        errors.append([vocab[random_i], random.randint(1, 10)])        
         
     maxi = 0
     max_word = ""

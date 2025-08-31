@@ -192,3 +192,27 @@ Premise (from Theme Sentence): Helping others can lead to trouble if it is used 
 Theme: Responsibility
 Outline: add_obstacle:guilt,the_value_of_self_expression_and_creativity,the_importance_of_careful_planning,add_twist,introduce_rival_character,the_value_of_gratitude,level_up_obstacle
 
+--- Story Outline #174 ---
+Premise (from Theme Sentence): A lesson in the dangers of overestimating oneself and the importance of humility.
+Theme: Humility
+Outline: the_value_of_gratitude,add_obstacle:guilt,level_up_obstacle,introduce_rival_character,add_twist,the_importance_of_being_willing_to_take_risks,introduce_rival_character
+
+--- Paragraph Output for Event: 'the_value_of_gratitude' ---
+As the sun rose over the air, Maya and her family sat down to a lovely meal. They had just come back from a walk in the park, and Maya's mom had made her favorite dish, a big plate of sautéed ay-leaf vegetables and a warm, fluffy aw-ful-ful omelette. Maya felt happy and grateful for the wonderful food and the lovely day, and she said a big "ah-ah" of thanks to her mom.
+
+--- Story Outline #127 ---
+Premise (from Theme Sentence): A fine coat is not always an indication of an attractive mind.
+Theme: Intelligence
+Outline: add_obstacle:guilt,the_value_of_flexibility,introduce_rival_character,add_obstacle_towards_major_goal,level_up_obstacle,add_twist,introduce_character:quirky
+
+--- Paragraph Output for Event: 'add_obstacle:guilt' ---
+[No valid paragraph found]
+
+--- Story Outline #7 ---
+Premise (from Theme Sentence): A fine coat is not always an indication of an attractive mind.
+Theme: Intelligence
+Outline: the_value_of_self_expression_and_creativity,add_obstacle:guilt,level_up_obstacle,introduce_rival_character,perseverance,add_twist,the_value_of_self_expression_and_creativity
+
+--- Paragraph Output for Event: 'the_value_of_self_expression_and_creativity' ---
+[No output generated]
+

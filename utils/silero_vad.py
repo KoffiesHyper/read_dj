@@ -8,6 +8,8 @@ model = load_silero_vad()
 
 def silero_vad(waveforms, sample_rate):
 
+    empty = []
+
     for i, waveform in enumerate(waveforms):
         print(f"Silero VAD: Paragraph #{i+1}")
         
@@ -24,8 +26,15 @@ def silero_vad(waveforms, sample_rate):
             end_frame = int(timestamp["end"])
             sliced_audio.append(waveform[:, start_frame:end_frame])
         
-        sliced_audio = torch.cat(sliced_audio, dim=1)
+        if len(sliced_audio) == 0:
+            sliced_audio = torch.zeros((1, 1))
+            empty.append(i)
+        else:
+            sliced_audio = torch.cat(sliced_audio, dim=1)
+
         torchaudio.save(f"paragraph_{i}.wav", sliced_audio, sample_rate)
+
+    return empty
     
 def silero_vad_steam(audio_bytes):
     waveform, sample_rate = convert_webm_to_wav(audio_bytes)

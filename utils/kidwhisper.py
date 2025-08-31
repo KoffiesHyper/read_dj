@@ -12,7 +12,7 @@ def load_model():
     global model
 
     if model is None:
-        model = whisper.load_model("tiny")
+        model = whisper.load_model("small")
     return model
 
 def transcribe_with_whisper(wav_path: str) -> str:
@@ -24,6 +24,10 @@ def transcribe_waveform_direct(paragraphs, sample_rate):
 
     for i, waveform in enumerate(paragraphs):
         print(f"Whisper: Paragraph #{i+1}")
+
+        if waveform == "empty":
+            transcripts.append("empty")
+            continue
 
         if sample_rate != 16000:
             waveform = torchaudio.transforms.Resample(orig_freq=sample_rate, new_freq=16000)(waveform)

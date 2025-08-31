@@ -38,14 +38,18 @@ def ReadAttemptView(request):
 
     num_samples = 0
     for paragraph in paragraphs:
+        if paragraph == "empty": continue
+
         num_samples += paragraph.shape[1]
     duration = num_samples / sample_rate
 
-    silero_vad(paragraphs, sample_rate)
-    paragraphs = voice_type_classifier()
+    empty = silero_vad(paragraphs, sample_rate)
+    paragraphs = voice_type_classifier(empty)
 
     num_samples = 0
     for paragraph in paragraphs:
+        if paragraph == "empty": continue
+
         num_samples += paragraph.shape[1]
     spoken_duration = num_samples / sample_rate
 
@@ -57,6 +61,7 @@ def ReadAttemptView(request):
     mispronunciations = []
 
     total_mistakes = {}
+    mistakes_per_paragraph = []
 
     for i, missing in enumerate(missing_words):
         print(f"MP: #{i+1}")
@@ -68,11 +73,16 @@ def ReadAttemptView(request):
             audio = audio.astype(np.float32)
             mp, mistakes = run_mispronunciation_detection(paragraphs[i], story[i])
 
+            print(mistakes)
+
             for key in mistakes:
+                for mpp in mistakes[key]:
+                    mistakes_per_paragraph.append([key, mpp, i])
+
                 if key in total_mistakes:
-                    total_mistakes[key] += mistakes[key]
+                    total_mistakes[key] += len(mistakes[key])
                 else:
-                    total_mistakes[key] = mistakes[key]
+                    total_mistakes[key] = len(mistakes[key])
 
             mispronunciations.append(mp)
         else:
@@ -87,6 +97,7 @@ def ReadAttemptView(request):
         },
         "mispronunciations": mispronunciations,
         "mistakes": total_mistakes,
+        "mistakes_per_paragraph": mistakes_per_paragraph,
         "missing_words": missing_words
     }
     

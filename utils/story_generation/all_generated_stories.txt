@@ -801,3 +801,90 @@ As they approached the forest witch's hut, the girl's eyes grew wide with wonder
 
 
 
+===== GENERATED STORY 1 (from Matched Story 1) =====
+
+--- Phonemes Incorporated: ay, aw, air, ah, a ---
+--- Theme: Deceit ---
+--- Event: add_obstacle:guilt ---
+[No output generated]
+
+--- Theme: Deceit ---
+--- Event: level_up_obstacle ---
+--- Transition: Error or no output ---
+###NEW PARAGRAPH###
+The man was very sad. His long hoe was too hard to swing in the dry, dusty air. He tried to use his long handle, but it was too heavy for him to carry. He sat down on a big, flat rock to rest, and that's when he met a friendly crow. The crow asked him, "Why are you so sad, my dear man?" The man said, "My hoe is too short, and my handle is too long. I'm too short, and my bicycle is too short. I made a very long hoe handle, but it's too hard to use." The crow listened carefully and said, "I have an idea! Let me help you make a special handle that's just right for you." And with a flutter of her wings, she flew off to gather some strong, flexible branches. She brought them back to the man and said, "Let's tie them together to make a perfect handle for your hoe!" The man's eyes sparkled with hope, and he said, "Ah, that would be wonderful!" And with the crow's help, he made a new, just-right handle, and his hoe was perfect once again.
+
+--- Theme: Deceit ---
+--- Event: the_importance_of_being_true_to_oneself ---
+--- Transition: Error or no output ---
+The man was very happy now. He could swing his new hoe with ease, and it felt just right in his hands. He thanked the crow many times, and she said, "You're welcome, my dear man! I'm glad I could help. Now, let's have a big harvest party to celebrate!" The man's eyes lit up, and he said, "Ah, that sounds like a great idea!" The crow said, "We'll gather all our friends from the farm, and we'll have a big feast with fresh fruits and veggies. And we'll play games and have fun in the sunshine, feeling happy and free, without a single care." The man smiled, feeling grateful for his new hoe and his new friend, and he said, "I'm so glad I met you, crow! You're a true friend indeed!"
+
+--- Theme: Deceit ---
+--- Event: the_importance_of_self_care ---
+--- Transition: Error or no output ---
+
+--- Theme: Deceit ---
+--- Event: add_twist ---
+--- Transition: Error or no output ---
+### The Unexpected Turn of Events ###
+
+One day, while he
+Interrupted by user
+
+--- Theme: Deceit ---
+--- Event: make_reader_angry ---
+--- Transition: Continue the story. ---
+### The Unexpected Turn of Events ###
+
+As he sat in his cave, surrounded by
+Interrupted by user
+
+--- Theme: Deceit ---
+--- Event: introduce_rival_character ---
+--- Transition: Continue the story. ---
+Interrupted by user
+
+
+
+===== GENERATED STORY 1 (from Matched Story 1) =====
+
+--- Phonemes Incorporated: ay, aw, air, ah, a ---
+--- Theme: Deceit ---
+--- Event: add_obstacle:guilt ---
+[No output generated]
+
+--- Theme: Deceit ---
+--- Event: level_up_obstacle ---
+--- Transition: Error or no output ---
+### Here is the new paragraph continuing the story:
+
+One day, the man decided to make a special ladder for himself to climb to the highest hay in the air. He wanted to reach the juiciest, ripest hay to feed his hungry birds. He hammered and sawed, making a long, strong ladder that went up, up, up into the sky. But, oh dear! His ladder was too long for the hayloft door, and it wouldn't fit through the doorway. The man was in a pickle, ah! He had to find a way to make it fit, or his birds would go hungry.
+
+--- Theme: Deceit ---
+--- Event: the_importance_of_being_true_to_oneself ---
+--- Transition: Error or no output ---
+The man thought and thought, trying to figure out what to do. He wanted his ladder to reach the hay, but he didn't want it to get stuck. He thought about asking his friends for help, but they would just laugh and say "Ha! Your ladder is too long!" The man felt sad and didn't know what to do. Just then, he heard a gentle "Ah, don't worry!" from his wise old cat, Whiskers. She came up to the ladder and looked up at the door. "You can make a little hinge, ah, hinge on the door," she said. "That way, the ladder will fit just right." The man thought and thought, then got out his hammer and made a little hinge. When he was done, the ladder fit perfectly through the doorway, and his birds had plenty of delicious hay to eat. The man was happy and thanked Whiskers for her wise advice.
+
+--- Theme: Deceit ---
+--- Event: the_importance_of_self_care ---
+--- Transition: Error or no output ---
+Here is the continuation of the story:
+
+The man was so happy with his new ladder that he decided to paint it a lovely shade of sky blue, with a hint of aw-ful yellow. He sat in his new chair, a beautiful, big one with a long arm, and dipped his brush in the paint. As he painted, he thought about how happy Whiskers had made him. He thought, "Ah, I'm so lucky to have such a wise and wonderful cat!" He applied a layer of paint, then took a step back to admire his handiwork. The door frame looked wonderful, and the ladder fit perfectly through the doorway, with a soft "ah-ah" of satisfaction. The man smiled, feeling grateful for the day's adventure and the lesson he learned about being true to himself.
+
+--- Theme: Deceit ---
+--- Event: add_twist ---
+--- Transition: Error or no output ---
+As the man was about to step back to admire his painted ladder, he heard a faint "ah-ah" coming from the kitchen. He turned around to see Whiskers, his wise cat, standing on the kitchen counter, looking very pleased with herself. She had somehow managed to get into the paint and was now covered in colorful swipes of blue and yellow. The man couldn't help but laugh at the sight of his mischievous cat, who was now licking her paws, looking like a little painter herself. "Ah, Whiskers, you silly kitty!" he exclaimed, scooping her up in his arms. "I think you've added your own special touch to the painting!" He looked
+Interrupted by user
+
+--- Theme: Deceit ---
+--- Event: make_reader_angry ---
+--- Transition: Continue the story. ---
+
+--- Theme: Deceit ---
+--- Event: introduce_rival_character ---
+--- Transition: Continue the story. ---
+
+
+
