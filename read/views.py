@@ -7,7 +7,7 @@ import torch
 import torchaudio
 import numpy as np
 
-from utils.compare import compare_strings, check_missing_words
+from utils.compare import compare_strings, check_missing_words, normalize_text
 from utils.kidwhisper import transcribe_waveform_direct
 from utils.silero_vad import silero_vad
 from utils.voice_type_classifier import voice_type_classifier
@@ -71,7 +71,7 @@ def ReadAttemptView(request):
                 audio = np.mean(audio, axis=0)
             
             audio = audio.astype(np.float32)
-            mp, mistakes = run_mispronunciation_detection(paragraphs[i], story[i])
+            mp, mistakes = run_mispronunciation_detection(paragraphs[i], normalize_text(story[i]))
 
             print(mistakes)
 
