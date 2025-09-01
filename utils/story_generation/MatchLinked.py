@@ -89,7 +89,8 @@ def ask_compatibility_score(initial_paragraph, story_text):
         "--temp", "0.7",
         "--top-p", "0.9",
         "--seed", "42",
-        "--prompt", full_prompt
+        "--prompt", full_prompt,
+        "-ngl", "26"
     ]
 
     try:

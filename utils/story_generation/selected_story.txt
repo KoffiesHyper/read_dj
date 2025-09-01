@@ -1,0 +1,30 @@
+--- Matched Story 1 (Score: 0.80) ---
+[Paragraph 1]
+His hoe was too short. His doorway was too low. His bed was too short.
+
+[Paragraph 2]
+His bicycle was too short. This man was too tall! He made a very long hoe handle.
+
+[Paragraph 3]
+He made very high door frames. He made a very long bed. He bought a very high bicycle.
+
+[Paragraph 4]
+He sat on a very high chair. He ate with a very long fork. He left his house and lived in a big forest.
+
+[Paragraph 5]
+He lived for many years.
+
+--- Paragraph Transitions ---
+
+[Transition 1]
+Error or no output
+
+[Transition 2]
+Error or no output
+
+[Transition 3]
+Error or no output
+
+[Transition 4]
+Error or no output
+

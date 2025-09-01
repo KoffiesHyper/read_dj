@@ -4,6 +4,8 @@ import whisper
 import numpy
 import torchaudio
 
+from .classroom_wav2vec import speech_to_text
+
 os.environ['SSL_CERT_FILE'] = certifi.where()
 
 model = None
@@ -31,6 +33,8 @@ def transcribe_waveform_direct(paragraphs, sample_rate):
 
         if sample_rate != 16000:
             waveform = torchaudio.transforms.Resample(orig_freq=sample_rate, new_freq=16000)(waveform)
+
+        # transcripts.append(speech_to_text(waveform))
 
         audio = waveform.squeeze().numpy().astype("float32")
 

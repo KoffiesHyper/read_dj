@@ -213,7 +213,8 @@ def generate_paragraph_core(
         "--temp", "0.7",
         "--top-p", "0.9",
         "--seed", "1",
-        "--prompt", full_prompt
+        "--prompt", full_prompt,
+        "-ngl", "26"
     ]
 
     try:

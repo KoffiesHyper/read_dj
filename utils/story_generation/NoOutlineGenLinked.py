@@ -200,7 +200,8 @@ Next paragraph:
         "--temp", "0.7",
         "--top-p", "0.9",
         "--seed", str(random.randint(1, 10000)),
-        "--prompt", prompt
+        "--prompt", prompt,
+        "-ngl", "26"
     ]
 
     try:

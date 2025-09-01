@@ -202,7 +202,8 @@ def process_stories_with_llama_cli(
                 "--top-p", "0.7",
                 # Random number generator seed. If same one with same prompt and parameters should always get the same out.
                 "--seed", "2",
-                "--prompt", llama_cli_prompt
+                "--prompt", llama_cli_prompt,
+                "-ngl", "26"
             ]
 
             # print("\n--- DEBUG INFO: LLAMA-CLI COMMAND ---")
@@ -343,7 +344,8 @@ def process_stories_with_llama_cli(
             "--temp", "0.7",
             "--top-p", "0.9",
             "--seed", "2",
-            "--prompt", llama_cli_prompt
+            "--prompt", llama_cli_prompt,
+            "-ngl", "26"
         ]
 
         # print("\n--- DEBUG INFO: FINAL BATCH LLAMA-CLI COMMAND ---")

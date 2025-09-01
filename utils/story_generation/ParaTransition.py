@@ -175,7 +175,8 @@ def process_paragraph_pair(
         "--top-p", "0.9",
         # Random number generator seed. If same one with same prompt and parameters should always get the same out.
         "--seed", "1",
-        "--prompt", llama_cli_prompt_input_string
+        "--prompt", llama_cli_prompt_input_string,
+        "-ngl", "26"
     ]
 
     try:

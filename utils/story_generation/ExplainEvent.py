@@ -91,7 +91,8 @@ def run_llama_cli_batch(batch, batch_index):
         "--top-p", "0.95",
         # Random number generator seed. If same one with same prompt and parameters should always get the same out.
         "--seed", "42",
-        "--prompt", prompt
+        "--prompt", prompt,
+        "-ngl", "26"
     ]
 
     try:
