@@ -71,7 +71,7 @@ def ReadAttemptView(request):
                 audio = np.mean(audio, axis=0)
             
             audio = audio.astype(np.float32)
-            mp, mistakes = run_mispronunciation_detection(paragraphs[i], normalize_text(story[i]))
+            mp, mistakes = run_mispronunciation_detection(paragraphs[i], " ".join(normalize_text(story[i])))
 
             print(mistakes)
 
