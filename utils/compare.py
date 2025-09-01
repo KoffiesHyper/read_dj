@@ -82,8 +82,8 @@ def check_missing_words(reference, spoken):
         if paragraph == "empty":
             missing_words.append(0)
 
-        paragraph = paragraph.lower().replace(".", "").replace(",", "").split(" ")
-        spoken_paragraph = spoken[i].lower().replace(".", "").replace(",", "").split(" ")
+        paragraph = normalize_text(paragraph)
+        spoken_paragraph = normalize_text(spoken[i])
 
         if len(paragraph) > len(spoken_paragraph):
             missing_words.append(-1)
