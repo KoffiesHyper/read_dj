@@ -106,7 +106,6 @@ def ReadAttemptView(request):
 @api_view(["POST"])
 def StoryGenView(request):
     mistakes = request.data.get("mistakes")
-    print(mistakes)
 
     run_inital_paras(mistakes)
     run_match()

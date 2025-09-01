@@ -3,4 +3,5 @@ from . import consumers
 
 websocket_urlpatterns = [
     re_path(r'ws/audio-stream/$', consumers.AudioStreamConsumer.as_asgi()),
+    re_path(r'ws/story-gen/$', consumers.GenerateStoryConsumer.as_asgi()),
 ]

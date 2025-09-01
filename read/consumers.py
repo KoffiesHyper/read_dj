@@ -6,6 +6,11 @@ from utils.kidwhisper import transcribe_waveform_direct
 from utils.silero_vad import silero_vad_steam
 from utils.conversions import convert_webm_to_wav
 
+from utils.story_generation.InitialParasLinked import run_inital_paras
+from utils.story_generation.MatchLinked import run_match
+from utils.story_generation.StoryGenLinked import run_story_gen
+from utils.story_generation.NoOutlineGenLinked import run_no_outline_gen
+
 CHUNK_THRESHOLD = 5
 
 class LatestTaskRunner:
@@ -96,3 +101,21 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
         await self.send(text_data=json.dumps({
             "transcript": transcript, "paragraph": self.paragraph
         }))
+
+
+class GenerateStoryConsumer(AsyncWebsocketConsumer):
+    async def connect(self):
+        await self.accept()
+
+    async def disconnect(self, close_code):
+        pass
+
+    async def receive(self, text_data=None, bytes_data=None):
+        if text_data:
+            mistakes = json.loads(text_data)
+            run_inital_paras(mistakes)
+            run_match()
+            run_story_gen()
+            paragraphs = run_no_outline_gen()
+
+            await self.send(text_data=json.dumps(paragraphs))
