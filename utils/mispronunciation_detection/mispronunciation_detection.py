@@ -98,6 +98,9 @@ class MispronunciationDetection:
 
         mispronunciations = []
 
+        if len(ground_truth) > len(predicted):
+            return [{"message": "error"}], {}
+
         for i in range(len(ground_truth)):
             ground_truth_word_phonemes = ground_truth[i]
             predicted_word_phonemes = predicted[i]
