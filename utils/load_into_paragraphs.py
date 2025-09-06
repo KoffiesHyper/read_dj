@@ -5,10 +5,10 @@ def load_into_paragraphs(audio_bytes, time_stamps):
 
     timestamps_samples = [int((t / 1000) * sample_rate) for t in time_stamps]
 
-    paragraphs = []
-    for i in range(len(timestamps_samples) - 1):
-        start = timestamps_samples[i]
-        end = timestamps_samples[i + 1]
-        paragraphs.append(waveform[..., start:end])
+    # paragraphs = []
+    # for i in range(len(timestamps_samples) - 1):
+    #     start = timestamps_samples[i]
+    #     end = timestamps_samples[i + 1]
+    #     paragraphs.append(waveform[..., start:end])
     
-    return paragraphs, sample_rate
+    return [waveform], sample_rate

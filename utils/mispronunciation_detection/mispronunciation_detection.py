@@ -97,6 +97,7 @@ class MispronunciationDetection:
         user_output_words = []
 
         mispronunciations = []
+        new_mispronunciations = []
 
         if len(ground_truth) > len(predicted):
             return [{"message": "error"}], {}
@@ -110,7 +111,10 @@ class MispronunciationDetection:
             
             alignment = self._align_phonemes(ground_truth_word_phonemes, predicted_word_phonemes)
 
+            new_mispronunciations.append(("", ""))
+
             for item_type, gt_ph, pred_ph in alignment:
+
                 if item_type == 'substitution':
                     word_mispronounced = True
                     mispronunciation_espeak_dict[gt_ph] = mispronunciation_espeak_dict.get(gt_ph, 0) + 1
@@ -127,6 +131,12 @@ class MispronunciationDetection:
                         "message": user_misp_output_str,
                         "index": i
                     })
+
+                    new_mispronunciations[i] = (
+                        new_mispronunciations[i][0] + f"-" + self.phonemes_to_letters(gt_ph),
+                        new_mispronunciations[i][1] + f"-{item_type}:" + self.phonemes_to_letters(pred_ph)
+                    )
+
                 elif item_type == 'deletion':
                     word_mispronounced = True
                     mispronunciation_espeak_dict[gt_ph] = mispronunciation_espeak_dict.get(gt_ph, 0) + 1
@@ -143,6 +153,11 @@ class MispronunciationDetection:
                         "message": user_misp_output_str,
                         "index": i
                     })
+
+                    new_mispronunciations[i] = (
+                        new_mispronunciations[i][0] + f"-" + self.phonemes_to_letters(gt_ph),
+                        new_mispronunciations[i][1] + f"-{item_type}:" + self.phonemes_to_letters(gt_ph)
+                    )
                     
                 elif item_type == 'insertion':
                     word_mispronounced = True
@@ -158,10 +173,19 @@ class MispronunciationDetection:
                         "type": "substitution",
                         "message": user_misp_output_str,
                         "index": i
-                    })
-            
+                    })            
+                
+                    new_mispronunciations[i] = (
+                        new_mispronunciations[i][0] + f"-" + self.phonemes_to_letters(gt_ph),
+                        new_mispronunciations[i][1] + f"-{item_type}:" + self.phonemes_to_letters(pred_ph)
+                    )
+                else:
+                    new_mispronunciations[i] = (
+                        new_mispronunciations[i][0] + f"-" + self.phonemes_to_letters(gt_ph),
+                        new_mispronunciations[i][1] + f"-{item_type}:" + self.phonemes_to_letters(pred_ph)
+                    )
 
-        return mispronunciations, mispronunciation_alph_dict
+        return mispronunciations, mispronunciation_alph_dict, new_mispronunciations
             
         #     if word_mispronounced:
         #         alphabetic_predicted_word = "".join([self.phonemes_to_letters(ph) for ph in predicted_word_phonemes])
@@ -183,9 +207,9 @@ class MispronunciationDetection:
         # print("Ground Truth (Phonemes):", gt_phonemes)
         # print("Predicted (Phonemes):", pred_phonemes, "\n")
 
-        mispronunciations, mispronunciation_alph_dict = self.find_mispronunciations(gt_phonemes, pred_phonemes, ground_truth_text)
+        mispronunciations, mispronunciation_alph_dict, new_mispronunciations = self.find_mispronunciations(gt_phonemes, pred_phonemes, ground_truth_text)
 
-        return mispronunciations, mispronunciation_alph_dict
+        return mispronunciations, mispronunciation_alph_dict, new_mispronunciations
 
         # print("User Output:", user_output)
         # print("Mispronunciations:")
@@ -211,10 +235,10 @@ def load_md_model():
         processor = loader.get_processor()
         detector = MispronunciationDetection(model, processor)
 
-def run_mispronunciation_detection(audio, ground_truth):
-    mispronunciations, mispronunciation_alph_dict = detector.run(
-        f"{ROOT_PATH}/sliced.wav",
+def run_mispronunciation_detection(audio, ground_truth, i):
+    mispronunciations, mispronunciation_alph_dict, new_mispronunciations = detector.run(
+        f"{ROOT_PATH}/media/paragraph_{i}.wav",
         ground_truth
     )
 
-    return mispronunciations, mispronunciation_alph_dict
+    return mispronunciations, mispronunciation_alph_dict, new_mispronunciations

@@ -5,7 +5,7 @@ import torchaudio
 processor = AutoProcessor.from_pretrained("aadel4/Wav2vec_Classroom_FT")
 model = AutoModelForCTC.from_pretrained("aadel4/Wav2vec_Classroom_FT")
 
-def speech_to_text(waveform):
+def transcribe_with_class_w2v(waveform):
 
     if waveform.ndim > 1:
         waveform = waveform.mean(dim=0)

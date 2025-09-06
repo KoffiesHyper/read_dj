@@ -6,6 +6,7 @@ import json
 import torch
 import torchaudio
 import numpy as np
+import time
 
 from utils.compare import compare_strings, check_missing_words, normalize_text
 from utils.kidwhisper import transcribe_waveform_direct
@@ -28,11 +29,16 @@ def TestView(request):
 
 @api_view(["POST"])
 def ReadAttemptView(request):
+    start = time.time()
+
     recording = request.FILES["recording"]
     audio_bytes = recording.read()   
 
     story = json.loads(request.data.get("story"))
     time_stamps = json.loads(request.data.get("time_stamps"))
+
+    voice_type = request.data.get("voice_type")
+    environ_type = request.data.get("environ_type")
 
     paragraphs, sample_rate = load_into_paragraphs(audio_bytes, time_stamps)
 
@@ -43,8 +49,13 @@ def ReadAttemptView(request):
         num_samples += paragraph.shape[1]
     duration = num_samples / sample_rate
 
+    sv_start = time.time()
     empty = silero_vad(paragraphs, sample_rate)
-    paragraphs = voice_type_classifier(empty)
+    sv_end = time.time()
+
+    vtc_start = time.time()
+    paragraphs = voice_type_classifier(empty, voice_type)
+    vtc_end = time.time()
 
     num_samples = 0
     for paragraph in paragraphs:
@@ -53,7 +64,9 @@ def ReadAttemptView(request):
         num_samples += paragraph.shape[1]
     spoken_duration = num_samples / sample_rate
 
-    transcripts = transcribe_waveform_direct(paragraphs, sample_rate)
+    t_start = time.time()
+    transcripts = transcribe_waveform_direct(paragraphs, sample_rate, environ_type)
+    t_end = time.time()
     results, accuracy = compare_strings(story, transcripts)
 
     missing_words = check_missing_words(story, transcripts)
@@ -63,6 +76,9 @@ def ReadAttemptView(request):
     total_mistakes = {}
     mistakes_per_paragraph = []
 
+    new_mis = []
+
+    mp_start = time.time()
     for i, missing in enumerate(missing_words):
         print(f"MP: #{i+1}")
         if missing == 0:
@@ -72,8 +88,8 @@ def ReadAttemptView(request):
             
             audio = audio.astype(np.float32)
 
-            mp, mistakes = run_mispronunciation_detection(paragraphs[i], " ".join(normalize_text(story[i])))
-
+            mp, mistakes, new_mispronunciations = run_mispronunciation_detection(paragraphs[i], " ".join(normalize_text(story[i])), i)
+            new_mis.append(new_mispronunciations)
             for key in mistakes:
                 for mpp in mistakes[key]:
                     mistakes_per_paragraph.append([key, mpp, i])
@@ -87,6 +103,13 @@ def ReadAttemptView(request):
         else:
             mispronunciations.append([])
 
+    mp_end = time.time()
+    end = time.time()
+
+    with open("performance.txt", "a") as f:
+        if missing_words[0] == 0:
+            f.write(f"{end-start},{sv_end-sv_start},{vtc_end-vtc_start},{t_end-t_start}, {mp_end-mp_start}\n")
+
     response = {
         "result": results,
         "stats": {
@@ -97,7 +120,9 @@ def ReadAttemptView(request):
         "mispronunciations": mispronunciations,
         "mistakes": total_mistakes,
         "mistakes_per_paragraph": mistakes_per_paragraph,
-        "missing_words": missing_words
+        "missing_words": missing_words,
+        "audio": [request.build_absolute_uri(f"/media/paragraph_{i}.wav") for i in range(7)],
+        "new_mispronunciations": new_mis
     }
     
     return Response(response, status=HTTP_200_OK)

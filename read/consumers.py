@@ -10,6 +10,7 @@ from utils.story_generation.InitialParasLinked import run_inital_paras
 from utils.story_generation.MatchLinked import run_match
 from utils.story_generation.StoryGenLinked import run_story_gen
 from utils.story_generation.NoOutlineGenLinked import run_no_outline_gen
+from utils.compare import compare_strings
 
 CHUNK_THRESHOLD = 5
 
@@ -95,11 +96,19 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
     async def transcribe_and_send(self, waveform):
 
         print("TRANSCRIBING AUDIO")
-        transcript = transcribe_waveform_direct(waveform, 16000)
+        transcript = transcribe_waveform_direct(waveform, 16000, "Quiet")
+        transcript = transcript[0]
+
+        num_words = len(transcript.split(" "))
+        story = "The monkey swung from tree to tree."
+
+        truncated_story = " ".join(story.split(" ")[:num_words-1])
+
+        results, _ = compare_strings([truncated_story], [transcript])
         print("DONE")
 
         await self.send(text_data=json.dumps({
-            "transcript": transcript, "paragraph": self.paragraph
+            "transcript": results, "paragraph": self.paragraph
         }))
 
 
