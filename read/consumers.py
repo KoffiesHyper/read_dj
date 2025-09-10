@@ -39,6 +39,8 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
         self.last_speaking_time = 0
         self.running_chunks = 0
         self.paragraph = 0
+
+        self.story = ""
         
         self.task_runner = LatestTaskRunner()
 
@@ -47,12 +49,13 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
 
     async def receive(self, text_data=None, bytes_data=None):
         if text_data == "clear":
-            print("cleared")
             self.chunk_buffer = []
             self.last_speaking_time = 0
             self.running_chunks = 0
             self.task_runner = LatestTaskRunner()
             self.paragraph = self.paragraph + 1
+        elif text_data is not None:
+            self.story = text_data
 
         elif bytes_data:
             print("received")
@@ -100,9 +103,8 @@ class AudioStreamConsumer(AsyncWebsocketConsumer):
         transcript = transcript[0]
 
         num_words = len(transcript.split(" "))
-        story = "The monkey swung from tree to tree."
 
-        truncated_story = " ".join(story.split(" ")[:num_words-1])
+        truncated_story = " ".join(self.story.split(" ")[:num_words-1])
 
         results, _ = compare_strings([truncated_story], [transcript])
         print("DONE")
