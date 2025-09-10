@@ -10,7 +10,7 @@ ROOT_PATH = config("ROOT_PATH")
 
 model = load_silero_vad()
 
-def silero_vad(waveforms, sample_rate):
+def silero_vad(waveforms, sample_rate, cur_paragraph):
 
     empty = []
 
@@ -36,7 +36,7 @@ def silero_vad(waveforms, sample_rate):
         else:
             sliced_audio = torch.cat(sliced_audio, dim=1)
 
-        torchaudio.save(f"{ROOT_PATH}/media/paragraph_{i}.wav", sliced_audio, sample_rate)
+        torchaudio.save(f"{ROOT_PATH}/media/paragraph_{cur_paragraph}.wav", sliced_audio, sample_rate)
 
     return empty
     

@@ -22,8 +22,7 @@ categories = {
 def get_ith_command(i):
     return f"source {CONDA_PATH}/etc/profile.d/conda.sh && conda init && conda activate {env_name} && {script_path} {wav_path}/paragraph_{i}.wav"
 
-def voice_type_classifier(empty, voice_type):
-
+def voice_type_classifier(empty, voice_type, cur_paragraph):
     paragraphs = []
 
     for i in range(1):            
@@ -33,7 +32,7 @@ def voice_type_classifier(empty, voice_type):
             paragraphs.append("empty")
             continue
 
-        command = get_ith_command(i)
+        command = get_ith_command(cur_paragraph)
 
         result = subprocess.run(
             ["bash", "-c", command],
@@ -50,7 +49,7 @@ def voice_type_classifier(empty, voice_type):
 
         segments = []
 
-        with open(f"{ROOT_PATH}/output_voice_type_classifier/paragraph_{i}/all.rttm") as file:
+        with open(f"{ROOT_PATH}/output_voice_type_classifier/paragraph_{cur_paragraph}/all.rttm") as file:
             for line in file:
                 line = line.strip().split(" ")
                 category = line[7]
@@ -58,7 +57,7 @@ def voice_type_classifier(empty, voice_type):
                 if category == categories[voice_type]:
                     segments.append([float(line[3]), float(line[4])])
 
-        waveform, sample_rate = torchaudio.load(f"{ROOT_PATH}/media/paragraph_{i}.wav")
+        waveform, sample_rate = torchaudio.load(f"{ROOT_PATH}/media/paragraph_{cur_paragraph}.wav")
         sliced_audio = []
 
         num_samples = waveform.shape[1]

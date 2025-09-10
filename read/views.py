@@ -40,21 +40,23 @@ def ReadAttemptView(request):
     voice_type = request.data.get("voice_type")
     environ_type = request.data.get("environ_type")
 
+    cur_paragraph = int(request.data.get("paragraph"))
+
     paragraphs, sample_rate = load_into_paragraphs(audio_bytes, time_stamps)
 
     num_samples = 0
-    for paragraph in paragraphs:
-        if paragraph == "empty": continue
+    for p in paragraphs:
+        if p == "empty": continue
 
-        num_samples += paragraph.shape[1]
+        num_samples += p.shape[1]
     duration = num_samples / sample_rate
 
     sv_start = time.time()
-    empty = silero_vad(paragraphs, sample_rate)
+    empty = silero_vad(paragraphs, sample_rate, cur_paragraph)
     sv_end = time.time()
 
     vtc_start = time.time()
-    paragraphs = voice_type_classifier(empty, voice_type)
+    paragraphs = voice_type_classifier(empty, voice_type, cur_paragraph)
     vtc_end = time.time()
 
     num_samples = 0
@@ -88,11 +90,11 @@ def ReadAttemptView(request):
             
             audio = audio.astype(np.float32)
 
-            mp, mistakes, new_mispronunciations = run_mispronunciation_detection(paragraphs[i], " ".join(normalize_text(story[i])), i)
+            mp, mistakes, new_mispronunciations = run_mispronunciation_detection(paragraphs[i], " ".join(normalize_text(story[i])), cur_paragraph)
             new_mis.append(new_mispronunciations)
             for key in mistakes:
                 for mpp in mistakes[key]:
-                    mistakes_per_paragraph.append([key, mpp, i])
+                    mistakes_per_paragraph.append([key, mpp, cur_paragraph])
 
                 if key in total_mistakes:
                     total_mistakes[key] += len(mistakes[key])
