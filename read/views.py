@@ -108,6 +108,9 @@ def ReadAttemptView(request):
     mp_end = time.time()
     end = time.time()
 
+    if len(new_mis) == 0:
+        new_mis.append([])
+
     with open("performance.txt", "a") as f:
         if missing_words[0] == 0:
             f.write(f"{end-start},{sv_end-sv_start},{vtc_end-vtc_start},{t_end-t_start}, {mp_end-mp_start}\n")
